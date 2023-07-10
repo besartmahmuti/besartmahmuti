@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/C5616AQG_V0Iw4aoBcw/profile-displaybackgroundimage-shrink_350_1400/0/1579101666946?e=1682553600&v=beta&t=F6DSLoggr0HD45RTKKRgMXQ9fFHTYqlzKgWwF2ycFuo)
+
 <h1 align="center">Hi 👋, I'm Besart Mahmuti</h1>
 <h3 align="center">Software Engineer, Full-stack Developer</h3>
 <img align="right" alt="Coding" width="255" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
